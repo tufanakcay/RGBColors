@@ -1,2 +1,2 @@
-# RGBColors
+# RGB Colors
  RGB Colors
